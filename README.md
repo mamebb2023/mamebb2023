@@ -8,7 +8,7 @@
 - 📫 How to reach me: <a padding="10" href="https://www.linkedin.com/in/mohammednur2023/"><img width="30" height="30" src="assets/linkedin.png" /></a><a href="https://t.me/monur01"><img width="30" height="30" src="assets/telegram.png" /></a> or mamebb2023@gmail.com
 ---
 
-### Programming Languages:
+### Programming Languages (</>):
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
