@@ -3,4 +3,4 @@
 - 🔭 I’m currently [ALX Software Student](https://alxafrica.com)
 - 🌱 I’m currently learning Penetration Testing
 - 🤔 I’m can contribute with Frontend Web Designing
-- 📫 How to reach me: mamebb2023@gmail.com or <a href="https://t.me/monur01"><img width="30" height="30" src="assets/tg.png" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mohammednur2023/"><img width="30" height="30" src="assets/in.png" /></a><a href="https://t.me/monur01"><img width="30" height="30" src="assets/tg.png" /></a> or mamebb2023@gmail.com
