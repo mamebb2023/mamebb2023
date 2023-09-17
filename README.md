@@ -1,3 +1,5 @@
+<img align="center" src="assets/image(27).jpg" />
+---
 <h1 align="center">Hello, 👋</h1>
 
 ---
