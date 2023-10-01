@@ -1,4 +1,4 @@
-<img align="center" src="assets/git-bg.jpg">
+<img align="center" src="assets/header.jpg">
 <h1 align="center">Hello, 👋</h1>
 
 ---
