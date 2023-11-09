@@ -6,6 +6,7 @@
 - 🔭 I’m currently [ALX Software Student](https://alxafrica.com)
 - 🌱 I’m currently learning Penetration Testing
 - 🤔 I’m can contribute with Frontend Web Development
+- 👨‍💻 I am enthusiast learner and I like to code as much as I like chocolate 🍫
 - On my spare time, I like to poke around the internet 🌐. I am also learning French language <img src="https://flagcdn.com/16x12/fr.png" srcset="https://flagcdn.com/32x24/fr.png 2x, https://flagcdn.com/48x36/fr.png 3x" width="16" height="12" alt="France">
 - 📫 How to reach me: <a padding="10" href="https://www.linkedin.com/in/mohammednur2023/"><img width="30" height="30" src="assets/linkedin.png" /></a><a href="https://t.me/monur01"><img width="30" height="30" src="assets/telegram.png" /></a> or mamebb2023@gmail.com
 ---
