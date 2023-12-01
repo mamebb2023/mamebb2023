@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently [ALX Software Student](https://alxafrica.com)
+- 🔭 I’m currently [ALX Software Engineering Student](https://alxafrica.com)
 - 🤔 I’m can contribute with Front-end and Back-end Web Development
 - 👨‍💻 I am enthusiast learner and I like to code as much as I like chocolate 🍫
 - On my spare time, I learn Penetration Testing, I like to poke around the internet 🌐. J'apprends aussi la langue française <img src="https://flagcdn.com/16x12/fr.png" srcset="https://flagcdn.com/32x24/fr.png 2x, https://flagcdn.com/48x36/fr.png 3x" width="16" height="12" alt="France">
