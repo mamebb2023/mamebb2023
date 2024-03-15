@@ -3,6 +3,7 @@
 
 ---
 
+### About me
 - 🔭 I’m [ALX Software Engineering Grad](https://alxafrica.com)
 - 🤔 I’m can contribute with Front-end and Back-end Web Development
 - 👨‍💻 I am enthusiast learner and I like to code as much as I like chocolate 🍫
