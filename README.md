@@ -30,4 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamebb2023&layout=compact)
+<div align='center'>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamebb2023&layout=compact)
+</div>
