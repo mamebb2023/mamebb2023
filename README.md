@@ -28,6 +28,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
 </div>
 
-<div align="center">
-  [![Status](https://github-readme-stats.vercel.app/api?username=mamebb2023)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Status](https://github-readme-stats.vercel.app/api?username=mamebb2023)](https://github.com/anuraghazra/github-readme-stats)
