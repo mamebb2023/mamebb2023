@@ -3,7 +3,8 @@
 
 ---
 
-<p align="center">I am a Full-Stack Web developer passionate about designing intuitive Front-End Interfaces and Building Robust Back-End Systems.</p>
+<h2 align="center">I am a Full-Stack Web developer passionate about designing intuitive Front-End Interfaces and Building Robust Back-End Systems.</h2>
+
 ### Programming Languages </>:
 
 <div align="center">
