@@ -1,9 +1,12 @@
 <img align="center" src="assets/header.jpg">
 <h1 align="center">Hello, 👋</h1>
 
+---
+
+<p align="center">I am a Full-Stack Web developer passionate about designing intuitive Front-End Interfaces and Building Robust Back-End Systems.</p>
 ### Programming Languages </>:
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
