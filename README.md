@@ -1,8 +1,5 @@
 <img align="center" src="assets/header.jpg">
 <h1 align="center">Hello, 👋</h1>
-
----
-
 <h2 align="center">I am a Full-Stack Web developer passionate about designing intuitive Front-End Interfaces and Building Robust Back-End Systems.</h2>
 
 ### Programming Languages </>:
